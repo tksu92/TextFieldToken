@@ -1,0 +1,6 @@
+framework module TextFieldToken {
+  umbrella header "TextFieldToken-umbrella.h"
+
+  export *
+  module * { export * }
+}

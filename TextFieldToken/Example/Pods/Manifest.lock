@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (5.6.0)
+  - TextFieldToken (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - TextFieldToken (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  TextFieldToken:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  TextFieldToken: 01e2f5c16a4e1d891ba76961f2024ce3f7870285
+
+PODFILE CHECKSUM: ceb3f2708b1cd772dd7afe0efe12fcf6889bfd4a
+
+COCOAPODS: 1.11.3

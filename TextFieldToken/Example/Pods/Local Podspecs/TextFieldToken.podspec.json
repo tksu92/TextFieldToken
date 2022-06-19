@@ -1,0 +1,29 @@
+{
+  "name": "TextFieldToken",
+  "version": "0.1.0",
+  "summary": "A short description of TextFieldToken.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tksu92/TextFieldToken",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tksu92": "sutran"
+  },
+  "source": {
+    "git": "https://github.com/tksu92/TextFieldToken.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "TextFieldToken/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
